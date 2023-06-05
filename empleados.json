@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"sistema"},
+{"type":"table","name":"empleados","database":"sistema","data":
+[
+{"id":"1","nombre":"Arthur","apellidos":"Morgan","telefono":"1234567890","correo":"arthur@rockstar.com","direccion":"Donner Falls, Grizzlies East, Ambarino"},
+{"id":"2","nombre":"Luis","apellidos":"Lopez","telefono":"1023589413","correo":"luislopez@eyefind.info","direccion":"Galveston Avenue, North Holland, Liberty City"},
+{"id":"3","nombre":"Geralt","apellidos":"Of Rivia","telefono":"1354891216","correo":"geraltwiedzmin@cdpr.pl","direccion":"Corvo Bianco (Gwyn Cerbin), Sansretour Valley, Toussaint"},
+{"id":"4","nombre":"Fernando","apellidos":"Rodriguez","telefono":"2124913561","correo":"rodriguezfernando270@gmail.com","direccion":"Cerro Media Luna, Privada Juriquilla, Juriquilla, Queretaro"}
+]
+}
+]
